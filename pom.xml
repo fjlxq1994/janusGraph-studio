@@ -6,8 +6,8 @@
     <groupId>com.lxq.janusgraph</groupId>
     <artifactId>janusgraph-studio</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>janusgraph-studio</name>
-    <description>a tool for janusgraph</description>
+    <name>janusGraph-studio</name>
+    <description>a tool for janusGraph</description>
 
     <properties>
         <java.version>1.8</java.version>
